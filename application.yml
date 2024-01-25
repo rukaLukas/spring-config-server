@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: greeting-service
+management:
+  server:
+    port: 8888
+  endpoints:
+    web:
+      base-path: /actuator
+      exposure:
+        include: "*"
+
+greeting-service:
+    greeting: "Hello Default"
+    default-value: "Anonymous"
