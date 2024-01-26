@@ -11,5 +11,5 @@ management:
         include: "*"
 
 greeting-service:
-    greeting: "Hello qa"
+    greeting: "modified qa"
     default-value: "Anonymous"
