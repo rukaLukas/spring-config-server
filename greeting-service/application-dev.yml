@@ -16,5 +16,5 @@ management:
         include: "*"
 
 greeting-service:
-    greeting: "modified 4 dev"
+    greeting: "modified 5 dev"
     default-value: "Anonymous"

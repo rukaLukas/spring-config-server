@@ -16,5 +16,5 @@ management:
         include: "*"
 
 greeting-service:
-    greeting: "modified 4 prod"
+    greeting: "modified 5 prod"
     default-value: "Anonymous"
